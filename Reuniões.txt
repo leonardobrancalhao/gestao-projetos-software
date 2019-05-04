@@ -1,0 +1,78 @@
+﻿Ata da Reunião * 
+Responsável pela Ata: Renê
+
+data: 9/3 16:30
+versão 1.0
+Responsável: Leonardo
+Alteração : Nasce a proposta 
+Tipo:Conceitos do Kanban
+Detalhamento: "Nesse caso, por ser mais "dinâmico", talvez seja algo parecido com kanban"
+Local: whatsapp
+Duração: 00:30:00
+
+data: 12/3 
+versão 1.0
+Responsável: Rafael
+Alteração : proposta_1 
+Tipo: soluções e dilemas do Proejto
+Detalhamento: "dilema: o que pode acontecer são imprevistos de bugs, tecnologias/frameworks 
+com pouco conhecimento tecnico, atualização de versão de framework que quebra compatibilidade, 
+bugs por falha na regra de negócio, má implementação do analista/dba e etc..."
+solução:"a ídeia do kanban é sempre ser possivel repriorizar as tarefas de acordo com a necessidade, 
+é vem "volátil" nesse sentido... o que acaba dando uma boa flexibilidade para o time...
+Local: whatsapp
+Duração: 00:35:00 
+
+data: 13/3
+versão 1.0
+Responsável: Leonardo
+Alteração:  
+Tipo:aprovação e inicio do protótipo
+Detalhamento: "é pra ser um jogo dinâmico rápido de jogar"
+Local: whatsapp
+Duração: 00:40:00
+
+data: 13/3 
+versão 1.0
+Responsável: Leonardo
+Alteração:  
+Tipo: Definição do horario das reuniões em modo Hangout 
+Detalhamento: dás 21:30 ás 23:00 Semanalmente ás Quintas.
+Local: whatsapp
+Duração: 00:15:00 
+
+data: 14/3 
+versão 1.0
+Responsável: Leonardo
+Alteração: Debate e montagem do slide
+Tipo: Montar apresentação
+Detalhamento: análise 
+Local: Hangout
+Duração: 01:45:00
+
+data: 21/3 
+versão 1.0
+Responsável: Monique/Rafael/Renê (Leonardo ausente)
+Alteração:  
+Tipo: montagem do canvas
+Detalhamento: proposta para angariar recursos, "Rifa páscoa, venda de serviços (formatação/ serviços diversos) 
+Local: Hangout
+Duração: 01:20:00 minutos
+
+data: 23/03
+versão 1.1
+Responsável: Leonardo
+Alteração : Definição do Nome  
+Tipo:
+Detalhamento: Boardgame Kanban 
+Local: whatsapp 
+Duração: 00:15:00
+
+data: 28/03 
+versão 1.1
+Responsável: Leonardo
+Alteração:  
+Tipo: Definição das regras do jogo
+Detalhamento: qtd jogadores, tamaho do tabuleiro, regras do jogo.
+Local: Hangout
+Duração: 01:30:00
